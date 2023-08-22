@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nome": "João Vitor",
+      "sobrenome": "Barbosa Aguiar",
+      "cpf": "12345678900",
+      "idade": 23,
+      "endereco": "Rua dos Alfineiros ",
+      "id": 1
+    },
+    {
+      "nome": "Pedro",
+      "sobrenome": "Alvares Cabral",
+      "cpf": "00011122233",
+      "idade": 97,
+      "endereco": "Palacio real",
+      "id": 2
+    }
+  ]
+}
